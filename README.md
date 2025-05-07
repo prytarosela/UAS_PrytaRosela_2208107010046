@@ -10,7 +10,6 @@ Proyek ini merupakan aplikasi berbasis Web yang memungkinkan mahasiswa membuat e
 - [🔐 Konfigurasi API Key Gemini](#-konfigurasi-api-key-gemini)
 - [📬 Panduan Penggunaan](#-panduan-penggunaan)
 - [🛠️ Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-- [🤝 Kontribusi](#-kontribusi)
 - [📝 Lisensi](#-lisensi)
 
 ## 📦 Fitur Utama
