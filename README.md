@@ -28,25 +28,23 @@ Proyek ini merupakan aplikasi berbasis Web yang memungkinkan mahasiswa membuat e
 ## 🖥️ Demo Aplikasi
 
 ### Tampilan Utama
-![Tampilan Utama](/screenshots/main_interface.png)
+![image](https://github.com/user-attachments/assets/92f80cdf-bfda-4be5-829f-b0c3584e8cf3)
 
-### Hasil Generate Email
-![Hasil Email](/screenshots/generated_email.png)
+### Contoh Penggunaan untuk Email Beasiswa/Exchange
+![image](https://github.com/user-attachments/assets/f4d1c845-d82b-4652-8fa2-c422e7744a83)
 
-### Contoh Penggunaan untuk Email Akademik
-![Contoh Akademik](/screenshots/academic_email_example.png)
+### Hasil Generate Email Beasiswa/Exchange
+![image](https://github.com/user-attachments/assets/0e1cdcd5-aecd-44d0-8313-277c9d8d66cd)
 
 ## 📁 Struktur Proyek
 
 ```
 intelligent_email_writer/
-├── .env                     # Berisi API Key Gemini
+├── .env                    # Berisi API Key Gemini
 ├── app.py                  # Frontend dengan Streamlit
 ├── backend/
 │   └── main.py             # Backend API menggunakan FastAPI
-├── screenshots/            # Folder untuk menyimpan screenshot aplikasi
 ├── requirements.txt        # Dependensi backend
-├── requirements_frontend.txt # Dependensi frontend (opsional)
 └── README.md               # Dokumentasi proyek
 ```
 
@@ -131,25 +129,9 @@ Jika mengalami error terkait API key:
 - **Environment Management**: python-dotenv
 - **HTTP Client**: Requests
 
-## 🤝 Kontribusi
-
-Kontribusi untuk proyek ini sangat diterima! Jika Anda memiliki ide, saran, atau menemukan bug:
-
-1. Fork repository
-2. Buat branch baru (`git checkout -b feature/amazing-feature`)
-3. Commit perubahan Anda (`git commit -m 'Add amazing feature'`)
-4. Push ke branch (`git push origin feature/amazing-feature`)
-5. Buka Pull Request
-
 ## 📝 Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-## 📸 Screenshot
-
-Untuk menambahkan screenshot aplikasi, buat folder `screenshots` di root proyek dan simpan gambar tampilan aplikasi Anda di sana. Kemudian referensikan gambar-gambar tersebut di README seperti yang sudah dibuat di bagian [Demo Aplikasi](#-demo-aplikasi).
 
 ---
 
