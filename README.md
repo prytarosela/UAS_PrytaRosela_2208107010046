@@ -2,8 +2,6 @@
 
 Proyek ini merupakan aplikasi berbasis Web yang memungkinkan mahasiswa membuat email secara otomatis dan profesional dengan bantuan teknologi Large Language Model (LLM) dari **Gemini API**. Aplikasi ini dirancang khusus untuk membantu mahasiswa dalam menyusun email profesional untuk berbagai keperluan akademik.
 
-![Email Writer Interface](/screenshots/main_interface.png)
-
 ## 📋 Daftar Isi
 - [📦 Fitur Utama](#-fitur-utama)
 - [🖥️ Demo Aplikasi](#-demo-aplikasi)
@@ -27,14 +25,43 @@ Proyek ini merupakan aplikasi berbasis Web yang memungkinkan mahasiswa membuat e
 
 ## 🖥️ Demo Aplikasi
 
+Berikut adalah **detail pengisian form** yang bisa kamu masukkan ke dalam `README.md` sebelum menampilkan screenshot antarmuka aplikasi:
+
+---
+
 ### Tampilan Utama
-![image](https://github.com/user-attachments/assets/92f80cdf-bfda-4be5-829f-b0c3584e8cf3)
+![image](https://github.com/user-attachments/assets/729b82f6-fd4b-4588-90e7-c3f945a07a8a)
 
 ### Contoh Penggunaan untuk Email Beasiswa/Exchange
-![image](https://github.com/user-attachments/assets/f4d1c845-d82b-4652-8fa2-c422e7744a83)
+### 📄 Contoh Pengisian Form: Intelligent Email Writer for Students
+* **Kategori Email:**
+  `Beasiswa / Exchange`
+* **Kepada:**
+  `Yth. Bapak/Ibu Dosen Pembimbing Akademik`
+* **Subjek Email:**
+  `Permohonan Surat Rekomendasi untuk Program Exchange ke Thailand`
+* **Gaya/Tone Penulisan:**
+  `Formal dan Sopan`
+* **Bahasa:**
+  `Bahasa Indonesia`
+* **Tingkat Urgensi:**
+  `Segera`
+* **Poin-poin Utama Isi Email:**
+  ```
+  - Nama saya Pryta Rosela dengan NPM 2208107010046
+  - Saya ingin mendaftar program pertukaran pelajar ke Jepang yang diselenggarakan oleh universitas chula
+  - Dibutuhkan surat rekomendasi dari dosen pembimbing
+  - Batas pengumpulan dokumen adalah tanggal 15 Mei 2025
+  - Saya telah menyiapkan draft dokumen pendukung dan CV
+  - Mohon kesediaan Bapak/Ibu untuk memberikan surat rekomendasi
+  ```
+* **Contoh Email Sebelumnya (Opsional):**
+  *(Tidak diisi)*
+![image](https://github.com/user-attachments/assets/0579bede-02f7-4bda-90f5-d01a66dc22f0)
 
 ### Hasil Generate Email Beasiswa/Exchange
-![image](https://github.com/user-attachments/assets/0e1cdcd5-aecd-44d0-8313-277c9d8d66cd)
+![image](https://github.com/user-attachments/assets/432dd003-adb0-4e1f-bffb-88fba33456bd)
+
 
 ## 📁 Struktur Proyek
 
@@ -53,8 +80,8 @@ intelligent_email_writer/
 ### 1. Kloning repository
 
 ```bash
-git clone https://github.com/username/intelligent_email_writer.git
-cd intelligent_email_writer
+git clone https://github.com/prytarosela/UAS_PrytaRosela_2208107010046.git
+cd UAS_PrytaRosela_2208107010046
 ```
 
 ### 2. Setup dan jalankan Backend (FastAPI)
