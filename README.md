@@ -57,6 +57,7 @@ Berikut adalah **detail pengisian form** yang bisa kamu masukkan ke dalam `READM
   ```
 * **Contoh Email Sebelumnya (Opsional):**
   *(Tidak diisi)*
+  
 ![image](https://github.com/user-attachments/assets/0579bede-02f7-4bda-90f5-d01a66dc22f0)
 
 ### Hasil Generate Email Beasiswa/Exchange
